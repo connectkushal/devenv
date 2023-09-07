@@ -20,7 +20,19 @@ Would appreciate any updates/improvements/suggestions
      - ksnip
      - postman
      - wireshark
+     - gthumb
      - audacity
+     - chrome
+     - chromium
+     - firefox
+     - tor
+     - qtorrent
+     - transmission
+     - i2pd
+     - vlc
+     - zoom
+     - telegram
+     - foxit pdf
   - ### SDK
     - Android Studio
    
