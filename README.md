@@ -9,7 +9,7 @@ Would appreciate any updates/improvements/suggestions
     - define steps required for each mode of installation
   - Categorize softwares/tools based on installation modes.
     - write scripts for each steps in each mode of installation
-  - Convert scripts to go and go routines where possible
+  - Convert scripts to go and use go routines for tasks/steps where possible
   
 
 ## Software List
