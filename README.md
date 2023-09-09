@@ -5,7 +5,7 @@ Would appreciate any updates/improvements/suggestions
 
 ---
 
-| Packages | Installation Guide |
+| Packages | Install Mode | Machine Type| Installation Guide |
 | --- | --- | --- | --- |
 | Android Studio |  |  |  |
 | audacity | | | |
