@@ -1,5 +1,5 @@
 # devenv (WIP)
-This is a package containing list, set of scripts, misc files or instructions for installing common softwares and tools I use, in a dev server or home system after a fresh os installation/upgrade.
+This is a hobby project containing list of softwares, set of scripts, misc files or instructions for installing common softwares and tools I use, in a dev server or home system after a fresh os installation/upgrade.
 
 Would appreciate any updates/improvements/suggestions
 
