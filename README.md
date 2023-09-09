@@ -10,42 +10,34 @@ Would appreciate any updates/improvements/suggestions
   - Categorize softwares/tools based on installation modes.
     - write scripts for each steps in each mode of installation
   - Convert scripts to go and use go routines for tasks/steps where possible
-  
 
-## Software List
-### Common
-  - ### Tools
-    - zsh
-    - ncdu
-    - fnm (for nodejs)
-    - htop
-    - neofetch
-  - ### SDK
-    - go
-    - nodejs
-    - postgres
+---
 
- ### Home only
-   - ### Tools
-     - ksnip
-     - postman
-     - wireshark
-     - gthumb
-     - audacity
-     - chrome
-     - chromium
-     - firefox
-     - tor
-     - qtorrent
-     - transmission
-     - i2pd
-     - vlc
-     - zoom
-     - telegram
-     - foxit pdf
-  - ### SDK
-    - Android Studio
-   
-### Server only
-  - ### Tools
-  - ### SDK
+| Packages | Install Mode | Machine Type| Installation Guide |
+| --- | --- | --- | --- |
+| Android Studio |  |  |  |
+| audacity | | | |
+| btop ? | | |  |
+| chrome | | | |
+| chromium | | | |
+| firefox | | | |
+| fnm |  |  |  |
+| foxit pdf | | | |
+| go |  |  |  |
+| gthumb | | | |
+| htop  |  |  |  |
+| i2pd | | | |
+| ksnip | | | |
+| ncdu |  |  |  |
+| neofetch |  |  |  |
+| nodejs |  |  |  |
+| postgres  |  |  |  |
+| postman | | | |
+| qtorrent | | | |
+| telegram | | | |
+| tor | | | |
+| transmission | | | |
+| vlc | | | |
+| wireshark | | | |
+| zoom | | | |
+| zsh |  |  |  |
